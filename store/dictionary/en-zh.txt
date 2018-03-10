@@ -1,0 +1,1631 @@
+chairman	主席
+person	人
+paper	纸
+rejection	排斥反应
+author who is not a reviewer	作者不是审阅者
+meta reviewer	meta 审阅者
+meta review	meta 审查
+member of program committee	程序委员会委员
+decision	决定
+author	作者
+document	文档
+program committee	程序委员会
+full version of paper	完整版本的纸
+abstract of paper	论文摘要的
+chair of program committee	程序委员会主席
+reviewer	审阅者
+conference	会议
+acceptance	验收
+bid	出价
+conference chair	会议椅
+co author	co 作者
+adminstrator	管理员
+subject area	主题区域
+preference	偏好
+external reviewer	外部审查员
+associated chair	相关联的椅子
+member of conference	会议的成员
+user	用户
+review	审查
+has title	有的标题
+reviews per paper	每篇论文的评论
+details entered by	输入的详细信息
+hardcopy of mailing manifests printed by	邮寄清单的硬拷贝打印的
+read paper	阅读本文
+written by	写的
+set maximal number of assigned paper	设置最大数量的任务了
+submit paper	提交文件
+read by meta reviewer	读元审阅者所做
+has member	有的成员
+has name	有的名字
+has website at url	有的网站的 url
+has date	有的日期
+maximal number of assigned papers	指定的论文的最大数目
+accepts hardcopy submissions	接受硬拷贝意见书
+has id	有的 id
+has logo at url	在 url 有标志
+has email	有的电子邮件
+review criteria entered by	由输入的审查标准
+mark conflict of interest	马克的利益冲突
+accepts	接受
+assigned by reviewer	分配的审阅者
+start reviewer bidding	开始审阅投标
+add	添加
+has bid	已出价
+assign	分配
+rejected by	被拒绝
+co written by	co 写的
+virtual meeting enabled by	由启用的虚拟会议
+co write	co 写
+added by	通过添加
+has subject area	有主题区域
+paper assignment finalized by	最后定稿的论文作业
+adjust	调整
+assigned by admin	由管理员分配
+end reviewing time	结束审查时间
+enter review criteria	输入审查标准
+reject paper	拒绝纸
+read by reviewer	阅读由审阅者
+has been assigned	已分配
+write paper	写论文
+reviewer bidding started by	审阅者投标开始由
+run paper asignmedt tools	运行纸 asignmedt 工具
+accepted by	接受的
+has conflict of interest with respect to	有关于利益冲突
+assigned to	分配给
+enable virtual meeting	启用虚拟会议
+enter details on	输入的详细信息
+has been decided (to be accepted rejected )	已决定 （接受被拒绝）
+print hardcopy mailing manifests	打印硬拷贝邮寄清单
+write review	写检讨
+paper assignment tools run by	由纸作业工具运行
+finalize paper assignment	完成论文作业
+adjusted by	通过调整
+co chair	co 的椅子
+conference announcement	会议公告
+contributor for conference	派遣国会议
+applicant for conference	会议的申请人
+steering committee	督导委员会
+submitted contribution	提交的贡献
+participant of conference	会议的参与者
+conference contribution	会议的贡献
+topic	主题
+workshop	讲习班
+organizer	主办单位
+tutorial	教程
+proceedings of conference	会议论文集
+regular contribution	定期的贡献
+call for paper	征集论文
+track of conference	会议的轨迹
+chair of workshop track	车间轨道的椅子上
+active participant of conference	会议的积极参与者
+camera ready version of contribution	相机准备好版本的贡献
+committee	委员会
+presentation	演示文稿
+web of conference	网络的会议
+poster	海报
+expertise of reviewer	审阅者的专门知识
+conference serie	会议意甲
+conference document	会议文件
+rejected contribution	被拒绝的贡献
+applicant for conference who early paid conference fee	早支付会议费的会议申请人
+extended abstract	扩展的抽象
+invited talk	特邀的演讲
+call for participation	号召参与。
+publisher	发布者
+information for participants	参与者的信息
+organization	组织
+first author of contribution	第一作者的贡献
+registered applicant	申请登记的人
+applicant for conference who paid conference fee	支付会议费的会议申请人
+member of committee	委员会的成员
+abstract	摘要
+written contribution	书面的贡献
+important date	重要日期
+invited speaker	邀请的演讲者
+reviewed contribution	审查的贡献
+fee for conference	会议费用
+preference of reviewer	审阅者的偏好
+applicant for conference who lately paid conference fee	最近支付会议费的会议申请人
+chair	椅子
+co author of contribution	co 作者的贡献
+author of contribution	作者的贡献
+part of conference	会议的一部分
+passive participant of conference	会议的被动参与者
+accepted contribution	公认的贡献
+organizing committee	组织委员会
+is program committee of conference	是会议的程序委员会
+submitted to	提交
+has been assigned review preference	已分配审查偏好
+has committee chair	有委员会主席
+is part of conference	是会议的一部分
+invites co reviewer	邀请 co 审阅者
+program committee of conference is	会议的程序委员会是
+is the first part of	是的第一部分
+is co chair of committee	是委员会联合主席
+topic related to review preference	有关审查偏好的话题
+preference or expertise of review is	偏好或专门知识是审查的
+invited by reviewer	邀请的审阅者
+is workshop chair of	是的车间椅子
+has tutorial	有教程
+has submitted contribution	已提交的贡献
+isbn of proceedings	国际标准书号的诉讼程序
+has surname	有的姓氏
+published on date	发表日期
+has first name	有的第一个名字
+date of full paper submission	论文全文提交日期
+url of conference web is	会议网站的 url 是
+date of camera ready submission	相机准备好提交的日期
+terminal day	终端的一天
+contributes to conference	会议贡献
+committee of conference is	会议委员会是
+important date of conference serie	重要日期的会议意甲
+publishes	出版
+makes presentation	使演示文稿
+has review	已审查
+is organizing committee of conference	组织委员会的会议
+has topic or submission contribution	已提交或主题的贡献
+expertise degree of reviewer	专业知识程度的审阅者
+degree of review preference	审查偏好的程度
+has e mail	具有电子邮件
+has gender	有性别
+date of acceptance notification	接受通知的日期
+starting date	开始日期
+location of conference	会议的位置
+date of abstract submission	抽象提交日期
+volume number of proceedings	卷号的诉讼程序
+organizing committee of conference is	会议组织委员会是
+is member of	是的成员
+is committee of conference	是委员会
+has part	有的部分
+publisher of proceedings is	诉讼程序的发布者是
+has abstract	具有抽象
+is chair of committee	是委员会主席
+has track	有的轨道
+has workshop chair	有车间椅子
+is steering committee of conference	是会议指导委员会
+has committee co chair	有委员会共同主持
+has contribution	有的贡献
+presented by	提出了一种由
+has review expertise	已经审查的专门知识
+steering committee of conference is	会议指导委员会是
+has important date	有重要约会
+has workshop topic	有工作坊主题
+has workshop	拥有车间
+is topic of conference part	是会议部分的主题
+preference or expertise of reviewer	偏好或审阅者的专业知识
+has author	有作者
+reviews contribution	点评的贡献
+person involved with conference	参与会议的的人
+event of sending camera ready version	事件的发送照相机准备好版本
+science worker	科学工作者
+city	城市
+student	学生
+event	事件
+contribution	贡献
+banquet	宴会
+trip	旅行
+event of registration of participants event	事件中的参与者事件注册
+event of submission	提交的事件
+volunteer of conference	会议的志愿者
+administrative event	管理事件
+university	大学
+event of reviewing results	审查结果的事件
+short paper	短纸
+regular participant of conference	经常参加会议
+student participant of conference	学生参与会议的人
+working event	工作事件
+country	国家
+reception	接待处
+social event	社会事件
+assistent	助理
+administrator	管理员
+company	公司
+event of reviewing	事件的检讨
+participant	参与者
+participant of conference has early registration	会议的参加者有早期注册
+has postal code	有邮政编码
+has remark	有句话
+follows	如下
+study at university	在大学学习
+has relevant administrative event	有相关行政事件
+writes contribution	写的贡献
+reviewes	回顾
+written by author	作者所写的
+stay in country	留在国家
+deals with topic	处理主题
+expert on topic	主题专家
+is parallel with	与平行
+stay in city	留在城市
+employed by	受雇于
+has topic	有主题
+stay in street	呆在街
+end day of event	结束一天的事件
+has short title	有短标题
+setting of maximal number of event	设置最大数量的事件
+has fax	已传真
+event is being held at	事件正举行
+has keywords	有关键字
+has valued added tax	有价值增值税
+has phone	有手机
+has contact email	已联系电子邮件
+setting of default choice of number of event	设置默认选择的事件数
+has home page	有的主页
+starting day of event	开始一天的事件
+setting of minimal number of event	设置的最少数量的事件
+ngo	非政府组织
+review rating	审查评级
+attendee	与会者
+call for reviews	呼吁点评
+break	休息
+academic organization	学术组织
+microelectronics topic	微电子技术专题
+accepted paper	被接受的纸
+conference dinner	大会晚宴
+place	地方
+computer networks sensor topic	计算机网络传感器主题
+single level conference	单水平会议
+computer networks management topic	计算机网络管理专题
+computer networks security topic	计算机网络安全话题
+mealtime	用餐时间
+signal processing topic	信号处理主题
+menu	菜单
+personal history	个人史
+government organization	政府组织
+computer networks measurements topic	计算机网络测量主题
+multimedia topic	多媒体主题
+call for manuscripts	手稿的呼吁
+computer networks enterprise topic	计算机网络企业主题
+radio communications topic	无线电通信主题
+cryptography topic	密码学主题
+presentation of a paper	演示文稿的一篇论文
+powerline transmission topic	电力线传输主题
+published paper	出版的报纸
+non academic event	非学术事件
+computer networks applications topic	计算机网络的应用程序主题
+medicine topic	医学专题
+computer architecture topic	计算机体系结构主题
+review form	审查形式
+personal reviewing history	个人回顾历史
+wireless communications topic	无线通信主题
+numerical review question	数值评价问题
+closing talk	结束谈话
+satellite and space communications topic	卫星和空间通信主题
+menu (meal)	菜单 (粕)
+withdrawn paper	撤回的纸
+rejected paper	被拒绝的纸
+accommodation	住宿
+personal publication history	个人出版历史
+pending paper	挂起纸
+session chair	会议椅
+event related to a conference	与会议相关的事件
+travel grant	旅费资助
+member of tpc	tpc 的成员
+coffee break	喝杯咖啡休息
+computer networks topic	计算机网络话题
+sponsorship	赞助
+communication theory topic	通信理论主题
+contact information	联系信息
+rated paper	额定的纸
+computer networks optical topic	计算机网络光学主题
+excursion	游览
+test only topic	测试只是主题
+antennas topic	天线的话题
+cad topic	cad 的话题
+academic event	学术活动
+two level conference	两个级别会议
+presenter	节目主持人
+parallel and distributed computing topic	并行与分布式计算的话题
+accept rating	接受评级
+industrial organization	工业组织
+programme	方案
+computer networks switching topic	计算机网络切换主题
+conference venue	会议地点
+free time	空闲时间
+accept if room rating	如果接受房间评级
+call	调用
+organizational meeting	组织会议
+welcome talk	欢迎的讲座
+weak reject rating	弱拒绝评级
+communications topic	通信主题
+performance topic	性能的主题
+talk	谈话
+meeting room	会议室
+meal	餐
+textual review question	文本审查问题
+call for papers	征稿通知
+mobile computing topic	移动计算主题
+conference session	届会议
+active paper	活动纸
+slide set	幻灯片集
+security topic	安全主题
+dining place	用餐的地方
+operating systems topic	操作系统主题
+review question	审查的问题
+reject rating	拒绝评级
+is reviewed by	由审查
+is about paper	是关于纸
+is review history of	是审查历史的
+has program	有的程序
+has attendee	有与会者
+is topic of	是的主题
+is initiated by	由发起
+has related document	有相关的文档
+has call	已调用
+has rating	已评级
+is written by	是写的
+is reviewing	现正检讨
+is location of	是的位置
+has location	有的位置
+has review history	回顾历史
+is provided by	是由提供的
+is provider of	是的提供商
+is menu of	是的菜单
+has country	有的国家
+initiates	同修
+attendee at	在与会者
+belongs to event	属于事件
+relates to	涉及到
+is presented in	提出了
+conference manuscript date and time deadline	会议的手稿的日期和时间截止日期
+conference start date and time	会议开始日期和时间
+has biography	有传
+has amount of cost	有数量的成本
+conference registration date and time deadline	会议注册的日期和时间截止日期
+has submission deadline	已提交截止日期
+has street	有街
+has end date and time	已结束日期和时间
+has name (full name of conference)	有的名字 （全名的会议）
+has currency of cost	有的费用的货币
+has start date and time	有开始日期和时间
+conference end date and time	会议结束日期和时间
+has menu	有的菜单
+writes	写操作
+for event	为事件
+conference paper date and time deadline	会议论文的日期和时间截止日期
+has last name	有的姓氏
+has submission instructions	已提交说明
+has city	有市
+location	位置
+possible reviewer	可能的审阅者
+positive review	积极检讨
+oc member	业主立案法团成员
+conference paper	会议论文
+industrial session	工业会议
+tutorial chair	教程椅子
+conference banquet	会议宴会
+conference trip	会议之旅
+demo chair	演示的椅子
+research institute	研究所
+paper author	论文作者
+submitted paper	提交的论文
+research topic	研究课题
+scientific event	科学事件
+session	会议
+programme brochure	方案小册子
+camera ready paper	相机准备好纸
+proceedings	诉讼程序
+contributed talk	贡献的谈话
+early registered participant	早期注册的参与者
+regular paper	普通纸
+demo paper	演示纸
+pc member	pc 成员
+workshop chair	车间的椅子
+flyer	传单
+agency staff member	工程处工作人员
+invited talk abstract	特邀的演讲摘要
+assigned paper	分配的纸
+pc chair	电脑椅
+demo session	演示会话
+organising agency	组织机构
+regular session	定期会议
+individual presentation	个别演示文稿
+oc chair	业主立案法团的椅子
+multi author volume	多作者卷
+late registered participant	晚注册的参与者
+workshop paper	纸车间
+neutral review	中立的审查
+organisation	组织
+track	跟踪
+negative review	负面评论
+academic institution	学术机构
+poster session	会议海报
+evaluated paper	评估的文件
+tutorial abstract	教程摘要
+proceedings publisher	诉讼程序发布服务器
+industrial paper	工业用纸
+web site	web 站点
+conference proceedings	会议论文集
+conference participant	会议的参与者
+workshop session	研讨会会议
+poster paper	广告纸
+sc member	供应链成员
+updated version of	更新的版本的
+presentation of paper	演示文稿的纸
+referenced in	在中引用
+location of	位置
+inverse of partof 7	逆的部分 7
+hasevent	hasevent
+covers topic	涵盖的主题
+review of paper	审查的文件
+scientifically organises	科学地组织
+topic covered by	所涵盖的主题
+reviewer of paper	审阅者的纸
+references	引用
+organised by	主办
+has reviewer	已审阅者
+review written by	审查所写
+technically organises	从技术上讲举办
+has updated version	已更新的版本
+part of	一部分
+event on list	在列表中的事件
+held in	在举行
+volume contains paper	卷包含纸
+paper in volume	在卷纸
+author of	书的作者
+part of event	事件的一部分
+publisher of	发布服务器的
+organises	举办
+scientifically organised by	科学主办
+lists event	列出事件
+paper presented as	本文提出了一种作为
+technically organised by	从技术上讲由主办
+activity taking place before conference	活动会议之前发生
+deadline for registration	报名截止日期
+initial manuscipt	初始 manuscipt
+social activity	社交活动
+speaker who presents a tutorial	演讲人提出了一个教程
+lecturer	讲师
+tip	小贴士
+powerpoint presentation	powerpoint 演示文稿
+registration fee for a student	一名学生的注册费
+city where a presenter comes	主讲人是哪里来的城市
+time	时间
+activity of modelling	活动的造型
+worker lecturer	工人讲师
+welcome speech	欢迎致辞
+registration fee paid by an attending author for receiving proceedings as book	由出席作者付费接受诉讼作为本书的注册费
+conference restaurant	会议餐厅
+form	窗体
+coctail reception	鸡尾酒招待会
+author who will receive proceedings as book	将收到诉讼作为本书的作者
+deadline for the hotel reservation	酒店预订截止日期
+main office	主要办事处
+fee	费用
+hotel presenter	酒店主持人
+full day tour	全天游览
+tax	税收
+credit card	信用卡
+city where the conference takes place	会议是在哪里发生的城市
+activity of simulating	模拟的活动
+registration fee a non author	注册费非作者
+deadline	截止日期
+cheque	支票
+introduction	介绍
+computer	计算机
+activity of accepting a manuscript	接受一份手稿的活动
+conference building	会议大楼
+conference hotel	会议酒店
+taxi	出租车
+hotel fee	酒店费用
+author who will receive proceedings as cd	作者将作为裁谈会接收程序
+double hotel room	双酒店房间
+currency	货币
+delegate	委托
+presenter who presents only on one day	演讲者介绍了只上一天
+overhead projector	投影仪
+invitation letter	邀请信
+registration fee	注册费
+city which is the location for a trip	这是一次旅行的位置的城市
+not member of iasted	不是会员的网路
+value added tax	附加价值税
+speaker	演讲者
+conference hall	会议大厅
+final manuscript	最后的手稿
+video cassette player	盒式磁带的视频播放器
+university of a presenter	大学的一个主持人
+fee for extra trip	额外的旅行的费用
+registration fee for a member	会员注册费
+activity taking place after conference	活动会议后发生
+departure tax	离境税
+item	项目
+audiovisual equipment	视听设备
+deadline for submiting	工程项目的截止日期
+member of iasted	协会的成员
+lecture	讲座
+one conference day	一次会议的一天
+book proceeding	书程序
+lcd projector	液晶投影仪
+submission	提交
+activity taking place during conference	在会议期间发生的活动
+conference hiker	会议的徒步旅行者
+conference days	会议天数
+activity of refusing a manuscript	拒绝一份手稿的活动
+mailing list	邮件列表
+video presentation	视频演示文稿
+card	卡
+activity of receiving a manuscript	收到一份手稿的活动
+state of the sponsor	赞助商的状态
+dinner banquet	晚餐宴会
+research activity	研究活动
+single hotel room	单人房间
+conference airport	会议机场
+student lecturer	学生讲师
+city where a presenter comes from	主讲人是从哪里来的城市
+conference registration form	会议注册表单
+delegate (person registering and visiting the conference)	（登记和前往会议的人） 的委托
+plenary lecture	全体会议上的演讲
+payment document	付款单据
+time zone	时区
+car	汽车
+registration fee paid by an attending author for receiving proceedings as cd	注册费由主诊作者付费接受诉讼作为 cd
+van	范
+shuttle bus	穿梭巴士服务
+item (in general)	（一般） 中的项目
+state where the conference takes place	会议是在哪里发生的状态
+state	状态
+city where a sponzor comes from	sponzor 是从哪里来的城市
+technical activity	技术活动
+brief introduction for session chair	会议主席简介
+hotel registration form	酒店注册表单
+registration fee for a non member	非会员的注册费
+technical committee	技术委员会
+student who is not a speaker	学生不是一个人
+day assigned for a trip	一天分配为一次旅行
+hotel room	酒店房间
+deadline for notification of acceptance	接受的通知的截止日期
+house of a presenter	节目主持人的房子
+record of attendance	出勤记录
+activity of renting a car	活性的租一辆车
+listener	侦听器
+house of a company being a sponsor	一家公司赞助的房子
+activity	活动
+non speaker	非扬声器
+building	建筑
+introduction of speaker	演讲者的介绍
+any kind of document	任何类型的文档
+amount of money	多少钱
+cd proceeding	裁谈会程序
+departure	离境
+state of the presenter	演示者的状态
+author information form	作者信息表格
+transport vehicle	运输车辆
+sponsor	赞助商
+worker who is not a speaker	工作人员不是一个人
+deadline for submitting the camera ready script	相机准备好脚本提交截止日期
+registration	注册
+publication	出版物
+sponzorship	sponzorship
+bank transfer	银行转帐
+viza	viza
+lecture given by a speaker	演讲者的演讲
+overhead transparency	架空的透明度
+speaker giving a lecture in front of the plenum	演讲者在全会前的讲座
+city where a sponzor comes	sponzor 是哪里来的城市
+session room	会话室
+is needed for	是所需
+goes through	经历
+is present in time	目前在时间
+is sent by	由发送
+is connected with	与连接
+is occupied by	被占领
+obtains	获取
+is locally situated in	位于本地
+pays	用者自付
+signs	迹象
+is present in time or space	目前在时间或空间
+is paid with	以支付
+speaks at time or in place	讲话在时间或地点
+is given by	给出了由
+is paid in	在支付
+is designed for	为设计
+sends	发送
+is made from	是由
+is prepared by	编写的
+is equipped for	装备为
+gives	给出了
+is held before	在之前举行
+is signed by	由签署
+is used for	用于
+is held after	后举行
+needs	需要
+is paid by	由支付
+is visited by	由参观
+occupies (lives resides)	占地 （生活驻留)
+is sent before	发送之前
+is sent after	发送后
+is held in	在举行
+is paid for	支付
+is used by	由使用
+is dated on	被日
+prepares	准备
+is given to	是给
+has amount of	有的量
+to be done till	要做的直到
+sponzor for best student paper	sponzor 为最佳学生论文的
+registration fee for student	学生的注册费
+conference acm sigkdd	会议 acm
+author of student paper	学生论文的作者
+gold sponzor of conference	会议的黄金 sponzor
+award for conference paper	会议论文奖
+deadline of paper submission	论文提交截止日期
+member of organizing committee	组织委员会的成员
+author of paper	论文的作者
+sponzor fee	sponzor 费
+sponzor	sponzor
+registration fee for member of sigkdd	注册费为旗舰的成员的
+main office of conference	会议的主要办公室
+chair of conference	会议主席
+listener of conference	会议的听众
+conference fee	会议费用
+award for best research paper	最佳论文奖
+award for best application paper	最佳应用论文奖
+committee for best paper awards	委员会的最佳论文奖
+award for best student paper	最佳学生论文奖
+sponzor as exhibitor	作为参展商 sponzor
+program chair	程序的椅子
+registration fee for member of sigmod	数据成员的注册费
+deadline of author notification	作者通知的截止日期
+webmaster	网站管理员
+abstrakt	abstrakt
+platinum sponzor of conference	会议的白金 sponzor
+organizator of conference	organizator 会议
+deadline of abstract submission	摘要提交截止日期
+silver sponzor of conference	会议的银 sponzor
+bronze sponzor of conference	会议的青铜 sponzor
+registration fee for person not being member of sig	并非 sig 的成员的人的注册费
+hall of conference	会议大厅
+person active at conference	积极参加会议的人
+hotel	酒店
+has price	有的价格
+has sponzor name	有 sponzor 的名字
+date of final day of conference	最后一天的会议日期
+conference takes place in city	会议是发生在市
+has name of conference	有会议的名称
+has nationality	有国籍
+registration fee is in currency	注册费是在货币
+has award	已奖
+registration fee paid by	由支付的注册费
+set up deadline	设置截止日期
+has deadline for submission	已提交截止日期
+awarded by	被授予
+sponzor are called by	sponzor 是由调用的。
+paid registration fee	支付的注册费
+call for sponzor	对 sponzor 的调用
+was presented by	提出了一
+presents document	介绍了文档
+stay in	留在
+organize conference	组织会议
+submit of paper	提交的论文
+obtained award	获得奖项
+set up deadline for	设置截止日期
+conference organized by	组织的会议
+date of starting day of conference	开始一天的会议的日期
+active participant	积极的参与者
+announcement	公告
+serie	意甲联赛
+passive participant	被动的参与者
+person involved	牵涉的人
+student participant	学生的参与者
+regular participant	经常参与者
+airport	机场
+activity taking place after	活动发生
+days	天
+hall	大厅
+hiker	徒步旅行者
+registration form	注册表单
+activity taking place before	活动发生之前
+activity taking place during	活动期间发生
+restaurant	餐厅
+gold sponzor	金 sponzor
+platinum sponzor	白金 sponzor
+silver sponzor	银 sponzor
+person active	积极的人
+acm sigkdd	acm
+bronze sponzor	青铜 sponzor
+expertise degree reviewer	专业知识程度审阅者
+volume number proceedings	卷数诉讼
+date abstract submission	日期摘要提交
+date acceptance notification	日期验收通知
+degree review preference	度审查偏好
+has topic submission contribution	有题目提交贡献
+is organizing committee	是组委会
+contributes	贡献
+important date serie	重要日期意甲
+date full paper submission	日期的论文全文提交
+date cameraready submission	日期 cameraready 提交
+date of cameraready submission	cameraready 提交的日期
+isbn proceedings	国际标准书号诉讼
+published date	出版的日期
+url web is	url web 是
+is workshop chair	车间的椅子
+is program committee	是程序委员会
+topic related review preference	主题相关审查偏好
+is cochair committee	是孙振宇委员会
+is cochair of committee	是委员会孙振宇
+invited reviewer	被邀请的审阅者
+preference expertise review is	偏好专长审查是
+program committee is	程序委员会
+invites coreviewer	请 coreviewer
+committee is	委员会是
+submitted	提交
+is part	是一部分
+is topic part	是主题的一部分
+preference expertise reviewer	偏好专长审阅者
+steering committee is	指导委员会
+has committee cochair	有委员会 cochair
+is steering committee	指导委员会
+presented	提出了一种
+is chair committee	是委员会主席
+is first part	是第一部分
+is committee	是委员会
+publisher proceedings is	发布服务器程序是
+is member	是成员
+organizing committee is	组织委员会
+maximal number assigned papers	指定的论文的最大数目
+has website url	有的网站的 url
+details entered	输入详细信息
+written	写
+has logo url	有标志的 url
+hardcopy mailing manifests printed	打印的硬拷贝邮寄清单
+set maximal number assigned paper	设置最大编号纸
+virtual meeting enabled	启用虚拟会议
+cowritten	cowritten
+cowritten by	由 cowritten
+rejected	拒绝
+read metareviewer	阅读 metareviewer
+read by metareviewer	由 metareviewer 读取
+member	成员
+added	添加
+cowrite	cowrite
+mark conflict interest	马克利益冲突
+review criteria entered	输入的审查标准
+paper assignment finalized	最后定稿的论文作业
+assigned reviewer	分配的审阅者
+accepted	接受
+reviewer bidding started	审阅者投标开始
+assigned	分配
+has conflict interest respect	有冲突的利益尊重
+assigned admin	分配的管理
+read reviewer	阅读审阅者
+paper assignment tools run	论文作业工具运行
+adjusted	调整
+member program committee	程序委员会成员
+enter details	输入详细信息
+event is being held	事件被关押
+participant has early registration	参加者有早期注册
+setting default choice number event	设置默认选择号码事件
+starting day event	开始一天的事件
+setting minimal number event	设置最小号码事件
+is parallel	平行
+stay city	留城
+employed	就业
+written author	写的作者
+stay country	保持国家
+deals topic	交易主题
+expert topic	专家主题
+setting maximal number event	设置最大号码事件
+stay street	呆在街头
+end day event	结束一天事件
+study university	研究大学
+is paid	支付
+is designed	被设计
+speaks time place	讲话的时间地点
+is given	给出了
+is present time space	是当前时间空间
+is locally situated	位于本地
+is occupied	被占领
+is connected	连接
+is sent	发送
+is present time	是当前时间
+is needed	被需要
+is visited	访问
+is written	是写
+has amount	有量
+be done till	可等到
+is dated	被日
+is prepared	被准备
+is equipped	装备
+is made	是由
+is signed	签署
+is used	使用
+is held	是举行
+date starting day	日期起始日
+registration fee paid	支付的注册费
+deadline author notification	截止日期作者通知
+setup deadline	设置截止日期
+has deadline submission	已截止日期提交
+awarded	授予
+sponzor are called	sponzor 被称为
+was presented	提出了一种
+date final day	日期的最后一天
+takes place city	发生市
+registration fee is currency	注册费是货币
+call sponzor	电话 sponzor
+setup deadline for	安装程序的最后期限
+organized	组织
+stay	住宿
+organize	组织
+assistant	助理
+reviews	点评
+has been decided	已经决定
+speaker introduction	演讲人介绍
+projector	投影仪
+video player	视频播放器
+at	在
+actively reject a manuscript	积极拒绝一份手稿
+item (generally)	项目 （一般）
+information form the writer	信息窗体的作家
+visa	签证
+registration fees paid by the present writer compared receiving record of research in the form of a disk	由本文作者支付的注册费比较研究在一个磁盘的形式接收记录
+manuscript acceptance activity	手稿验收活动
+taxis	的士
+leave	离开
+the deadline for sending	截止日期
+car rental activity	汽车租赁活动
+instrument	文书
+attendance record	考勤记录
+speaker to give a lecture in front of the knesset	演讲者向以色列议会演讲
+activity conducted by the	活动进行的
+any type of document	任何类型的文档
+the speaker offers tutorial	扬声器提供的教程
+registration fees	注册费
+fee for additional flight	额外的飞行费用
+dinner	晚餐
+lecture dumped by speaker	讲座演讲者被甩了
+deadline for hotel reservation	酒店预订截止日期
+submitted that only in one day	仅在一天之内提交，
+the city is the location for the journey	城市是为这次旅行地点
+application form	申请表格
+nothing	什么都不
+ktaber record	ktaber 记录
+small truck	小卡车
+not a member of the iasted	不是协会的成员
+the technical committee	技术委员会
+home company being a shepherd	家公司被一只牧羊犬
+hotel conference	酒店会议
+registration fees paid by the present writer to receive the minutes of research in book form	本文作者以书的形式接收研究纪要交纳登记费
+fees	费用
+optical projection projector lcd	光学投影投影机液晶电视
+artistic activity	艺术活动
+audio visual equipment	视听设备
+single rooms	单人间
+email list	电子邮件名单
+the amount of money	大量资金
+conference in one day	在一天的会议
+simulation activity	模拟活动
+registration fees for the member	会员注册费
+the follow up disc	光盘的跟进
+mtaralmo'tmer	mtaralmo'tmer
+activity conducted after the conference	会议结束后进行的活动
+non member registration fee	非会员注册费
+but speaker	但扬声器
+public transparency	公开透明
+writer	作家
+the university submitted	大学提交
+hotel fees	酒店费用
+initial manuscript	最初的手稿
+welcome	欢迎
+publishing	发布
+the author will receive the proceedings book	作者将收到诉讼书
+cocktail reception	酒会
+the deadline for submission of camera ready script	相机准备好脚本提交截止日期
+state where the conference	状态，其中会议
+people	人
+non working speaker	非工作扬声器
+registration fees for the student	学生注册费
+member of the iasted	协会的成员
+the day assigned for trip	一天分配之旅
+hotel provided	酒店提供
+atv	亚视
+activity occurs during the conference	在会议期间发生的活动
+double rooms	双人房
+(delegate (ysgil and visit the conference	（委托 （ysgil 和访问会议
+alvidioard presentation	alvidioard 演示文稿
+shuttle buses	穿梭巴士
+the city where the presenter comes from	主讲人是从哪里来的城市
+working records	工作记录
+taxes	税收
+the deadline for notification of acceptance	接受的通知的截止日期
+the city where the shepherd comes from	牧羊人是从哪里来的城市
+transmitter	变送器
+colonel house	上校的房子
+care	保健
+activity modeling	活动建模
+brief introduction of moderator	简要介绍了主持人
+registration fees from non writer	非作家的注册费
+the conference park	会议公园
+public lecture	公益讲座
+state shepherd	国家牧羊人
+non student speaker	非学生扬声器
+the state provided	规定的国家
+student records	学生记录
+the final manuscript	最后的手稿
+the activity receiving the manuscript	活动收到手稿
+power point presentation	power point
+shepherd	牧羊犬
+the writer who will receive minutes of research on a	将收到分钟研究的作家
+the city where the conference	城市在哪里会议
+letter of invitation	邀请信
+restaurant conference	餐厅会议
+mexico	墨西哥
+peso	比索
+cancun	坎昆
+chichen itza	奇琴伊察
+has some	有一些
+to do so	要这样做
+on	关于
+exist in time or place	存在在时间或地点
+paid by	由支付
+to give	给
+(running (live	（运行 （活
+been associated with	已与关联
+visited by	访问的
+it was held after the	它举行了后
+was used by	采用
+sent after	发送后
+gears is	齿轮是
+gave for to	为给
+posted by	发表于
+paid to	支付给
+passes through	经过
+it is used for	它用来
+sign	标志
+pay	工资
+exist in time	在时间里存在
+send	发送
+to write	写
+located locally in	本地位于
+paid with	与支付
+paid in	支付
+is a need for	需要
+prepared by	备
+sent by	由发送
+it was held in	它是在举行
+it is run by	它是由运行
+equipped for	为装备
+it was held by	它是由举行
+gets	获取
+is made of	是由
+speaking at the time or place	在时间或地点
+signed by	由签署
+neprezentující student	neprezentující 学生
+plenary lecturers	全体会议讲师
+head of section	科科长
+the departure of the	离开
+car hire activity	汽车租赁活动
+the term of the contribution	这个词所作的贡献
+country sponsor	国家赞助商
+publications	出版物
+deadline for submission of print version	打印版本提交截止日期
+conference trips	会议旅游
+information form for the author	作者信息窗体
+the submission of the contribution of the	提交所作的贡献
+konferen í city	konferen í 市
+the main office	主要办公室
+the listener	侦听器
+check	检查
+article	文章
+the author who will receive the conference proceedings on cd	作者将收到会议论文集在 cd 上
+country prezentujícího	国家 prezentujícího
+the iasted conference	网路会议
+the registration fee for the student	学生注册费
+conference room section	会议室内科
+participant of the conference	会议的参与者
+university of prezentujícího	大学的 prezentujícího
+the term of registration for the conference	注册会议的期限
+presenting	介绍
+lecture lecturer	讲座讲师
+receive activity contribution	接收活动的贡献
+the registration fee for non members towards the conference	非会员对会议的注册费
+the term notification of acceptance	接受的期限通知
+record participation	记录的参与
+conference activity	会议活动
+in addition the trip fee	另外旅行费用
+the registration fee	注册费
+day trip	一日游
+videotape player	录像带播放机
+home versions of the contribution	首页版本的贡献
+city prezentujícího	市 prezentujícího
+the country conferences	国家会议
+minibus	小巴
+the registration fee for neautora	neautora 在注册费
+conference proceedings on cd	在 cd 上的会议论文集
+the author of the	作者
+one day presenting	一天呈现
+the list of emails	列表中的电子邮件
+evening banquet	晚上宴会
+payment card	支付卡
+lecturer student	讲师的学生
+pre conference activity	前会议活动
+instead of the	而不是
+presentation slides	演示文稿幻灯片
+author registration fee for receipt of conference proceedings on cd	收据上裁谈会的会议论文集的作者注册费
+neprezentující worker	neprezentující 工人
+the hotel's room	酒店的房间
+the author who will receive the printed proceedings	作者将接收打印的程序
+author registration fee for receipt of the printed conference proceedings	收据打印的会议论文集的作者注册费
+the final version of the contribution	最终版本的贡献
+transport post edek	运输邮政埃德克党
+post conference activity	邮政会议活动
+the days of the conference	会议几天
+performances	表演
+cruise the city	在城市里
+house sponsor	房子赞助商
+delivery	交付
+printed proceedings	打印的程序
+lecturer researcher	讲师研究员
+show presenter	显示演示者
+head projector	头部的投影仪
+neprezentující	neprezentující
+registration for the conference	会议注册费
+city sponsor	市赞助商
+the lecturer tutorial	讲师教程
+the hotel registration form	酒店登记表格
+conference day	会议的一天
+the term	期限
+house prezentujícího	房子 prezentujícího
+the amount of cash	现金数额
+a member of the iasted conference	网路会议的成员
+brief introduction to the head section	头节简介
+the person	人
+section	一节
+the registration fee for a member of the conference	登记费为会议的成员的
+hotel usher	酒店接待员
+the activity of the rejection of the contribution	该活动所作的贡献的拒绝
+timezone	时区
+activity dated on the date and time	活动日的日期和时间
+futures date	期货日期
+it takes place before the	它发生之前
+posted by whom	由谁发布
+the payment took place where	支付发生在哪里
+it is inhabited by the who	它是由谁来居住
+signed by the who	由谁签署
+paid for what	付出为了什么
+applies	适用
+who is paid	谁是付
+posted in time before the	张贴在时间之前
+he is assigned to	他被指派给
+related to the activity	与该活动相关
+signed by the	由签署
+it takes place when and where	它发生，何时何地
+paid the	支付
+made from	由
+located where the	位于何处
+it takes place after the	它发生
+used for the	用于
+posted by who	由世卫组织发布
+it is equipped with the	它配备了
+wrote	写道︰
+used by	通过使用
+receives the	接收
+it is ready for	它是准备
+it is present when and where	它是目前何时何地
+it is present when	它是目前
+related to the	有关
+preparing article	准备篇文章
+it is associated with	它是与关联
+talking about when and where	浅谈何时何地
+sent time after	发送的时间后
+takes place	发生
+state of sponzors	sponzors 的状态
+registration fee for a non author	非作者注册费
+departure fee	离境费
+hotel rooms	酒店客房
+registration fee for an author who receives the tagungsband in book form	作者以书的形式领取 tagungsband 的注册费
+city representing a destination	城市代表一个目的地
+lecturer who speak in the plenary	在全体会议上发言的讲师
+speakers	发言者
+house of presenting	房子的介绍
+registration form (hotel)	登记表格 （酒店）
+registration fee for an author receiving the tagungsband as cd	作者接受作为 cd tagungsband 的注册费
+brief introduction to the session seat above	会议座位以上情况简介
+author receiving a tagungsband in book form	作者在书的形式接收 tagungsband
+fee for one additional trip	增加一次旅行费用
+home to a company that is a sponsor	一是赞助商的公司的家园
+time (time and date)	时间 （时间和日期）
+single room	单人房
+expert	专家
+accept a manuscript	接受一份手稿
+rent a car	租一辆车
+retail	零售
+submission deadline	提交截止时间
+map	地图
+state of the conference	会议的状态
+university of presenting	大学的介绍
+listeners	听众
+activity that takes place before the conference	在会议之前发生的活动
+employee lecturer	员工讲师
+subject	主题
+foil (overhead projector)	铝箔 （投影仪）
+lecturer the in the conference hotel is	讲师在会议酒店是
+employee who is not a public speaker	不是一个公众演说家的员工
+subject (in general)	主题 （在一般）
+airport in the conference venue	在会场的机场
+state of presenting	提交状态
+form for the information of the author	作者的信息的窗体
+activity that takes place after the conference	会议结束后发生的活动
+single conference day	单一会议一天
+city a sponsor comes from the	赞助商来自的市
+non speakers	非扬声器
+proof of payment	付款凭证
+conference visitors	会议游客
+cameraready deadline	cameraready 截止日期
+lecture held by a speaker	一位发言专题讲座
+city where the conference will be held	会议将在哪里举行的市
+activity that takes place during the conference	在会议期间发生的活动
+lecturer holds the a tutorial	讲师持有教程
+original version of the manuscript	原始版本的手稿
+video recorder	录像机
+modeling activity	建模活动
+non member of iasted	非会员的网路
+excursion day	游览一天
+author receiving a tagungsband as cd	作者接受作为 cd tagungsband
+tagungsband as book	作为本书的 tagungsband
+registration form (conference)	登记表格 （会议）
+lecturer who talks only in one day	仅在一天之内会谈的讲师
+student who is not a public speaker	学生不是一个公众演说家
+sponsorgebuehr	sponsorgebuehr
+opinion	意见
+rejection of a manuscript	退稿处理等
+foil	铝箔
+city comes from the a lecturer	城市来自一位讲师
+attendance sheet	考勤表
+automotive	汽车
+tagungsband as cd	作为 cd tagungsband
+double room	双人间
+endversion of the manuscript	endversion 的手稿
+registration deadline	登记截止日期
+lecture in the plenary	在全体会议上的演讲
+acceptance of a manuscript	接受一份原稿
+day tour	一日游
+must be done to	必须做的
+has the amount of	有的金额
+will be sent by	将通过发送
+wirdgegebenan	wirdgegebenan
+required	必填
+will be paid for	将支付
+will be paid in	将支付
+located in	位于
+designed intended for	设计的用于
+will be sent to	将被发送到
+signed	签署
+is required for	是必需的
+is equipped with	配备
+inhabited	居住
+receives	接收
+istanwesend (place)	istanwesend （地方）
+takes place in	在发生
+are	都是
+will be paid by	将由支付
+speaks in	在讲话
+speaks in (spatial and temporal)	说话 （时空）
+speaks	讲话
+located	位于
+prepared	准备
+will be paid with	将与支付
+istanwesend (spatial and temporal)	istanwesend （时空）
+takes place before	发生之前
+takes place after	发生后
+is inhabited by	由居住
+istanwesend	istanwesend
+speaks (spatial and temporal)	讲话 （时空）
+is connected related to	连接相关的
+will be given carried out by	须进行的
+will be paid	将支付
+paid	支付
+taking place during	在发生
+taking place after	发生
+refusing a manuscript	拒绝一份手稿
+accepting a manuscript	接受一份手稿
+taking place before	之前发生
+modelling	建模
+receiving a manuscript	收到一份手稿
+renting a car	租一辆车
+simulating	模拟
+occupies	占地
+includes the book of records for authors	包括记录这本书的作者
+state that the conference takes place	会议发生的状态
+deadline for hotel booking	酒店预订截止日期
+plenary speaker	全体会议议长
+bus of round trip	总线的往返行程
+presenter of the hotel	节目主持人的酒店
+house of the moderator	主持人的房子
+the moderator status	主持人地位
+presentation video	视频的演示文稿
+activity after the conference	在会议之后的活动
+company of the moderator	公司的主持人
+it includes the cd of transcriptions for authors	它包括裁谈会的改编作者
+one day conference	一天的会议
+registration fees for members	会员注册费
+research	研究
+added value tax	增值税
+shipping	航运
+fees for registration aestudiantes	注册 aestudiantes 的费用
+rates of book author and assistant	本书作者和助理率
+deadline for submission of proposals	提交提案的截止日期
+brief introduction to the president of the session	本届会议主席简介
+the conference building	会议大楼
+hiker of the conference	徒步旅行者的会议
+record attendance	记录考勤
+accepting the manuscript	接受这份手稿
+output rates	产出率
+information about the author form	作者窗体的信息
+rejecting the manuscript	拒绝这份手稿
+author assistant rates and cd	作者助理率和 cd
+money	钱
+an extra trip rates	额外旅行率
+welcome greeting	欢迎问候语
+modeling	建模
+no speaker	没有扬声器
+output	输出
+the registration fees	注册费
+day excursion	一日游
+conference plenary	会议的全体会议
+renting	租赁
+transparency	透明度
+restaurant of the conference	餐厅的会议
+the host city	主办城市
+presenter during a day	在一天的节目主持人
+welcome cocktail	欢迎酒会
+days of the conference	会议几天
+student not speaker	学生不是扬声器
+city tour	城市旅游
+city of sponsor	赞助商的城市
+pause for coffee	停顿，喝杯咖啡
+the proceedings	诉讼程序
+main hall of the conference	主殿的会议
+tutorial speaker	教程的扬声器
+rates of the hotel	酒店订房服务
+social program	社会程序
+student speaker	学生演讲者
+gala dinner	盛宴
+activity prior to the conference	在会议之前活动
+receiving the manuscript	收到这份手稿
+the conference city	会议城市
+worker not speaker	工人不扬声器
+deadline for submission of the final version	最终版提交截止日期
+all day excursion	所有一日游
+university of the moderator	大学的主持人
+president of the session	会议主席
+the proceedings cd	诉讼程序 cd
+registration fees for non authors	对于非作者注册费
+rates	利率
+registration fees for non members	注册费为非成员的
+introduction of the speaker	演讲者的介绍
+make up to	让达
+dated at	在日
+prepare	准备
+paid for	为支付
+occupied by	被占领
+pass by	擦肩而过
+need	需要
+used for	用于
+is present	是目前
+get	获取
+given to	给
+sent before	发送前
+be connected with	与连接
+deal with	处理
+speak in	发言
+be equipped for	具备为
+is present in	目前在
+be designated by	由指定
+made of	由
+given by	给出了由
+conference tour guide	会议旅游指南
+author registration fee	作者注册费
+student registration fee	学生注册费
+a tutorial speaker	教程的扬声器
+meeting hall	会议大厅
+state of a conference	状态的一次会议
+transparent	透明
+home overview	首页概述
+city of excursion	游览的城市
+iasted member	协会成员
+author who acts on digital media	作用于数字媒体的作者
+member registration fee	会员注册费
+author participating for acts in the paper registration fee	作者参与对于纸注册费的行为
+author who acts in paper format	作者行为在纸张格式
+day of travel	一天的旅行
+not a member of iasted	不是协会的成员
+deadline for submission of final version of manuscript	最终版本的手稿提交截止日期
+acceptance of manuscript	接受的手稿
+house of sponsor company	赞助商公司的房子
+state of a sponsor	赞助商的状态
+deadline for submission	提交截止时间
+hotel room double	酒店房间双
+an author information form	作者信息表格
+guided tour a day full	导游一天满
+simulation	模拟
+hotel room reservation form	酒店房间预订表
+day of conference	会议的一天
+activity taking place during a conference	在会议期间发生的活动
+registration of copyright for acts on digital media	行为上的数字媒体版权注册
+student presenter	学生演示者
+speaker one day	演讲者一天
+shuttle	班车
+city of conference	会议城市
+university of presenter	大学的主持人
+restaurant of a conference	餐厅的一次会议
+additional travel expenses	额外的旅行费用
+brief introduction of chairman of session	简要介绍了会议的主席
+acts in paper format	行为在纸张格式
+register for participation	报名参加
+rental	租赁
+chairman of session	会议主席
+conference room	会议室
+self employed person presenter	自我被雇用的人演示者
+simple hotel rooms	简单的酒店客房
+activity taking place after a conference	在一次会议后的活动
+representative	代表
+maître d'hotel	福不满
+receipt of manuscript	收到的手稿
+acts in digital format	在数字格式中的行为
+refusal of manuscript	手稿的拒绝
+city of presenter	演示者的城市
+presenter home	演示者回家
+activity to take place before a conference	活动举行一次会议之前
+hotel expenses	酒店费用
+state of a presenter	节目主持人的状态
+a conference hotel	会议酒店
+introduction of a speaker	一位发言者的介绍
+costs	费用
+student non speaker	学生非扬声器
+examination report	检验报告
+speaker presentation	演讲者演示文稿
+a quantity of	数量
+is dated from	被日
+is made up	组成
+a place before	之前的地方
+needs of	需要的
+is located in	位于
+is designed to	目的是
+speaks to	说话
+payroll	工资
+is connected to	连接到
+is paid to	支付给
+is equipped with the	配备
+is present at	出席
+is used to	习惯
+hotel costs	酒店成本
+author conference book bundle included	包括的作者会议书捆绑
+author book present registration fee	作者书目前注册费
+student lector	学生讲师
+sponsor state	赞助商状态
+worker lector	工作人员讲师
+presenter is	主持人是
+ready to print manuscript deadline	准备好打印稿件截止日期
+beamer	投影机
+conference book bundle	会议书捆绑
+manuscript received	收到的手稿
+crash course in speaker	扬声器的速成课程
+iasted non member	网路非成员
+first manuscript	第一份手稿
+author registration fee using existing cd	使用现有光盘的作者注册费
+hire	租用
+conference state	国家会议
+reading	阅读
+lector	讲师
+author conference bundle cd included	作者会议包 cd 包括
+conference cd bundle	会议 cd 包
+hotel enquiry form	酒店查询表格
+crash course	速成班
+travel day	一天的旅行
+activity for the conference	会议活动
+general lecture speaker	一般的演讲报告人
+simulate	模拟
+session president	会议主席
+amazon reviewer	亚马逊审阅者
+cost for extra travel	为额外的旅行费用
+head office	总公司
+speaker reading	说话人阅读
+deadline hotel booking	截止日期酒店预订
+sponsor town	赞助商镇
+host city	主办城市
+conference walker	会议沃克
+one day presenter	一天节目主持人
+accept script	接受脚本
+presenter university	节目主持人大学
+travel city	旅游城市
+manuscript rejection	手稿拒绝
+proof of presence	存在的证明
+brief introduction president	简要介绍了总统
+one day tour	一日游
+a conference day	一天的会议
+part	部分
+registration fees are non author	注册费是非作者
+sponsor company home	赞助商公司首页
+cost	成本
+acceptance deadline announcement	接受截止日期公告
+conference city	会议城市
+speaker proposals	演讲者的建议
+ready to	准备好
+is sent for	发送
+is held for	为举行
+features	功能
+continue	继续
+give	给
+speaking in	在发言
+preparing	准备
+charged	被控
+occupy	占据
+has been signed by	已签署的
+speak	发言
+is located	位于
+registration fee for non member	非会员注册费
+presenter's house	演示者的房子
+final version	最终版本
+extra travel fee	额外的旅行费用
+refusal of articles	文章的拒绝
+hotel of the conference	酒店的会议
+search	搜索
+book of annals	本书的史册
+hotel signup form	酒店注册表格
+sponsoring company	赞助公司
+double room hotel	双人房酒店
+presenter's university	演示者的大学
+rate	速率
+presenter of a day	主讲人的一天
+the conference's restaurant	会议餐厅
+registration fee for participant cd author	参与者的 cd 作者注册费
+tutorial presenter	教程演示者
+information form for authors	作者信息窗体
+list of presence	列表中的存在
+not professional speaker	不是专业的演讲者
+receipt of articles	收到的文章
+full day excursion	全天游览
+shipment fee	装运费用
+the state sponsor	国家赞助商
+day of the conference	会议的一天
+professor employee	教授员工
+registration fee for students	学生注册费
+the speaker's presentation	演讲者
+no member of the iasted	网路的任何成员
+brief introduction to the session coordinator	会议协调员简介
+staying at the host hotel	主机酒店入住
+building of the conference	建筑的会议
+transparencies	透明胶片
+seen	见过
+speaker's lecture	演讲者的演讲
+cd of the proceedings	裁谈会的程序
+bus	公共汽车
+registration fee for non author	非作者注册费
+session coordinator	会议协调员
+technical commission	技术委员会
+author book included in the annals	作者书载入史册
+plenary lecture presenter	全体会议讲座主讲人
+tripper of the conference	卸料小车的会议
+rent	租金
+registration fee for membership	会员注册费
+city trip	城市旅行
+reception cocktail	接待鸡尾酒
+single room hotel	单人房酒店
+expiry date of registration	注册有效期届满日期
+deadline for final version article	截止日期为最后版本条的
+boarding	登机
+price of hotel	酒店价格
+acceptance of articles	接受条款
+wire transfer	电汇
+author cd included in the annals	作者 cd 载入史册
+registration fee for participant book author	参与本书作者注册费
+no student speaker	没有学生扬声器
+inscription	题词
+pause	暂停
+cab	出租车
+initial version	初始版本
+done until	直到完成
+has a date	有个约会
+is present within	是目前内
+requires	要求
+is made within	内作出
+va by	虎斑猫
+is made after	由政府经过如此
+is paid within	内支付
+it is equipped for	它是为装备
+is submitted after	提交后
+it is necessary to	它是必要的
+is situated within	位于内
+is determined by	是由决定的
+is done before	做过
+of	的
+it is made of	它是由
+information request form about the author	关于作者的信息请求表单
+the deadline for registration	报名截止日期
+fee for additional trip	额外的旅行费用
+report of the rapporteur	报告员的报告
+student reporter	学生记者
+the employee is not the rapporteur	雇员不是报告员
+the country rapporteur	国别报告员
+no author registration fee	没有作者注册费
+country conference	国家会议
+tax administration	税务管理
+event conference	事件会议
+itkokristalli eskij projector	itkokristalli eskij 投影仪
+hotel single room	酒店单人房
+the book collection of works	图书收藏的作品
+one day he	一天他
+city conference	城市会议
+the administration of	管理
+house sponsor company	赞助商公司
+the author the book is a compendium of works incorporated	作者这本书是汇编作品纳入
+room partition	卫生间隔断
+the rapporteur of the plenary report	报告员的全体会议上的报告
+author registration fee exhibitor	作者注册费参展商
+book review	书评
+giver in the hotel	在酒店的送礼者
+rejection of the manuscript	退稿处理等
+dates of the conference	会议的日期
+secular program	世俗的程序
+the deadline for application submission	应用程序提交的截止日期
+not dosklad ik	不 dosklad ik
+technical event	技术事件
+report	报告
+worker rapporteur	工作人员报告员
+building conference	建筑会议
+ceiling projector	天花板上投影仪
+feed	饲料
+suburban bus	郊区公交车
+entry	条目
+registration fee book author contributor	注册费书作者贡献者
+receipt of the manuscript	收到手稿
+the author a disc of works included	作者的作品所包含的光盘
+cd compilation of works	cd 的作品汇编
+city reporter	市记者
+a brief introduction of the section	简要介绍了节
+airport conference	机场会议
+cocktail party	鸡尾酒会
+the student is not the rapporteur	这个学生不是报告员
+rapporteur of the training course	报告员的培训课程
+afternoon tour	下午游
+hotel reservation deadline	酒店预订截止日期
+welcome address	欢迎地址
+view	视图
+certificate of participation	结业证书
+house speaker	众议院议长
+membership registration fee	会员注册费
+the student registration fee	学生注册费
+no membership fee	无需会员费
+training course	培训课程
+city sightseeing tours	城市观光旅游
+plenary report	全体会议的报告
+acceptance of the manuscript	接受的手稿
+study	研究
+the original manuscript	原始手稿
+vehicle	车辆
+the deadline for	截止日期为
+event after the conference	在会议之后的事件
+rapporteur	报告员
+deadline for final version of the manuscript	截止日期为最后版本的手稿的
+presenter view	演示者视图
+day excursions	一天游览
+university of rapporteur	大学的报告员
+up to	高达
+scheduled for	定于
+the amount of	金额
+present during the	本期间
+who is visited	谁被参观
+designed for	为设计
+occur before	发生之前
+is in	是在
+who submitted	谁提交
+occurs in	发生在
+who subscribes	谁赞成
+what does	做什么
+who is preparing	谁来准备
+takes	需要
+gets the	获取
+who uses	谁在使用
+sent after the	发送后
+occur after the	发生后
+report in the	报告中
+used	使用
+than paid	比付费
+what is written	写的是什么
+is associated with	与关联
+pristutstvuet in	在 pristutstvuet
+what is paid	什么是支付
+is sent to the	发送到
+produced from	从生产
+where payable	在应付帐款
+who is sent	谁是送
